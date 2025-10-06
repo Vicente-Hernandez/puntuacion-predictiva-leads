@@ -89,9 +89,6 @@ puntuacion-predictiva-leads/
 ├── sistema_lead_scoring_predictivo.ipynb
 ├── simulacion_ventas.xlsx
 ├── requirements.txt
-├── eda_plots/
-│   ├── conversion_por_gse.png
-│   └── ...
 └── lead_scoring_dashboard.png
 ```
 
